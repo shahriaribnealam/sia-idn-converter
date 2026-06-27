@@ -12,7 +12,7 @@ SIA-IDN is a 100% client-side static web application designed to instantly conve
 
 ## 🚀 Live Demo
 You can check out the live version of this project here: 
-👉 **[Live Link Placeholder](https://YOUR_GITHUB_USERNAME.github.io/SIA-IDN/)** *(Update this after hosting via GitHub Pages)*
+👉 [https://sia-idn.pages.dev](https://sia-idn.pages.dev)
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, Tailwind CSS
