@@ -1,7 +1,7 @@
 # SIA-IDN
 >A fast, secure, and responsive real-time Punycode & Internationalized Domain Name (IDN) Converter.
 
-SIA-IDN is a 100% client-side static web application designed to instantly convert Unicode domain names (e.g.  শাহরিয়ারইবনেআলম.বাংলা or `café.com`) into their ASCII-compatible Punycode format (`xn--...`) and vice versa. Built using HTML5, JavaScript, and Tailwind CSS.
+SIA-IDN is a 100% client-side static web application designed to instantly convert Unicode domain names (e.g.  `শাহরিয়ারইবনেআলম.বাংলা` or `café.com`) into their ASCII-compatible Punycode format (`xn--...`) and vice versa. Built using HTML5, JavaScript, and Tailwind CSS.
 
 ## ✨ Features
 - **Real-time Auto-Conversion:** Converts instantly as you type or paste text without needing to click any button.
